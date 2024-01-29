@@ -4,7 +4,7 @@ import { useCallback, useState } from "react";
 import { useConst } from "./useConst";
 import { Board } from "./board";
 
-const ChessBoard = () => {
+export const ChessBoard = () => {
   const chess = useConst(() => new Chess());
   const [state, setState] = useState({
     player: "w",
