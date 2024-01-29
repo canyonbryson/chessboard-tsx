@@ -1,6 +1,6 @@
 # Chessboard-TSX
 
-Chessboard-TSX is an npm package that provides a chessboard component for rendering the board and pieces in a React application. It is designed to be used in conjunction with chess.js, a library that handles the logic of the chess pieces.
+Chessboard-TSX is an npm package that provides a chessboard component for rendering the board and pieces in a React Native application. It is designed to be used in conjunction with chess.js, a library that handles the logic of the chess pieces.
 
 ## Installation
 
